@@ -8,7 +8,7 @@ This interpreter can be run as either a stack (LIFO) or queue (FIFO). Mode can b
 
 * [Ubuntu 20.04 LTS](http://releases.ubuntu.com/20.04/) - Operating system reqd.
 
-* [GCC  9.4](https://gcc.gnu.org/gcc-9.4/) - Compiler used
+* [GCC  9.4](https://gcc.gnu.org/gcc-9/) - Compiler used
 
 
 ## :warning: Prerequisites
@@ -185,7 +185,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Author
 
-* * Christian Innocent Mhango <[i-christian](https://github.com/i-christian)>*
+* ** Christian Innocent Mhango <[i-christian](https://github.com/i-christian)>
 
 ## :mega: Acknowledgments:pray:
 
