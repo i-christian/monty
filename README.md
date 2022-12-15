@@ -185,7 +185,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Author
 
-* ** Christian Innocent Mhango <[i-christian](https://github.com/i-christian)>
+* Christian Innocent Mhango <[i-christian](https://github.com/i-christian)>
 
 ## :mega: Acknowledgments:pray:
 
